@@ -6,6 +6,7 @@ body {
 
 	aside {
 		background-color: #ffffff;
+		text-align: center;
 	}
 
 	#myNavbar {
@@ -61,6 +62,10 @@ body {
  	color: #ffffff;
 
  }
+
+.connectBoxHeader{
+	color: #4aaaa5;
+}
 
  .connectBoxHorizontalLine {
 	max-width: 590px;
