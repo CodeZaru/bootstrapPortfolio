@@ -1,0 +1,76 @@
+
+body {
+
+
+	background: #CCC !important; } /* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
+
+	aside {
+		background-color: #ffffff;
+	}
+
+	#myNavbar {
+
+		background-color: #ffffff;
+	}
+
+	.navbar-inverse .navbar-nav>.active>a {
+		background-image: linear-gradient(to bottom,#4aaaa5 0,#4aaaa5 100%)!important;
+	}
+
+	.navbar-brand {
+		background-image: linear-gradient(to bottom,#4aaaa5 0,#4aaaa5 100%)!important;
+		color: #ffffff !important;
+	}
+
+
+
+
+/*
+.navbar-inverse .navbar-nav>.active>a {
+	background-color: #4aaaa5 !important;
+
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff !important;
+    background-color: #4aaaa5 !important;
+ }
+ */ 
+
+ .mainContent {
+
+ 	background-color: #ffffff;
+
+ }
+
+ .mainContentText {
+
+ 	background-color: #ffffff;
+
+ }
+
+ .bioImage {
+ 	float: left;
+ 	width:33%;
+ 	/*padding: 25px 5px 5px 25px;*/
+ }
+
+ footer{
+ 	background-color: #666666;
+ 	border-top: 4px solid #4aaaa5;
+ 	color: #ffffff;
+
+ }
+
+ .connectBoxHorizontalLine {
+	max-width: 590px;
+	height: 3px;
+	background-color: #e2e2e2;
+}
+
+.hLine {
+	max-width: 900px;
+	height: 3px;
+	background-color: #e2e2e2;
+
+}
