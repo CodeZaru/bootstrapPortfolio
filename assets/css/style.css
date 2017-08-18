@@ -72,5 +72,33 @@ body {
 	max-width: 900px;
 	height: 3px;
 	background-color: #e2e2e2;
+}
+
+.mainContentH {
+	color: #4aaaa5;
+}
+
+#contact-button {
+  background-color: #4aaaa5;
+  color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+  padding: 15px;
+  max-width: 100px;
+}
+
+#contact-button:hover {
+  background-color: #5E7F7E;
 
 }
+
+#contact-button a {
+
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.btn-default {
+	background-image: linear-gradient(to bottom,#4aaaa5 0,#4aaaa5 100%)!important;
+	color: #ffffff !important;
+	}
